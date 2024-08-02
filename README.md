@@ -35,9 +35,12 @@ Customer:
 <br>
 Technologies Used
 <br>
+<br>
 
 Frontend:
 <br>
+
+
 HTML
 <br>
 CSS
@@ -46,10 +49,12 @@ JavaScript
 <br>
 
 Backend:
+
 <br>
 Java (JSP)
 <br>
 
 Database:
+
 <br>
 MySQL
