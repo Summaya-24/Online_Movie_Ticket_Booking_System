@@ -39,22 +39,14 @@ Technologies Used
 
 Frontend:
 <br>
-
-
-HTML
-<br>
-CSS
-<br>
-JavaScript
+HTML, CSS, JavaScript
 <br>
 
 Backend:
-
 <br>
 Java (JSP)
 <br>
 
 Database:
-
 <br>
 MySQL
